@@ -1,0 +1,7 @@
+com\demo\main\DemoApplication.class
+com\demo\dao\ProductRepository.class
+com\demo\service\ProductService.class
+com\demo\service\ProductServiceImpl.class
+com\demo\product\Product.class
+com\demo\controller\ProductController.class
+com\demo\dao\ProductRepositoryImpl.class
